@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=HELLO!&fontSize=90&desc=mim's%20github%20profile&descAlignY=70&descAlign=62)
 
+[![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
+
+
 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white"/></a>&nbsp
 
