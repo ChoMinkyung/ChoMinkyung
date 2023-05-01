@@ -9,8 +9,4 @@
 🎳 About Me 🎳
 <a href="링크주소"><img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white&link=링크주소"/></a>&nbsp
 
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchominkyung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D65F5F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
