@@ -20,7 +20,7 @@
   -->
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-3766AB?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/cplusplus-3766AB?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/cplusplus-3766AB?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
  
   
   <br>
