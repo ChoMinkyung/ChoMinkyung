@@ -1,4 +1,3 @@
-<div align="center">
 ![github header](https://i.ibb.co/WcjxL71/DSC05704.jpg)
 <div align="center">
 
