@@ -33,8 +33,8 @@
 <h3 align="center">🌳 Follow Me 🌳</h3>
 <p align="center">
   <a href="https://chominkyung.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://chominkyung.github.io/"/></a>&nbsp
-  <a href="https://9mim9.notion.site/0f66db7054a348359ce70b661ba281e6/"><img src="https://img.shields.io/badge/Notion-E4405F?style=flat-square&logo=Notion&logoColor=white&link=https://9mim9.notion.site/0f66db7054a348359ce70b661ba281e6/"/></a>&nbsp
-  <a href="mailto:mkjo99@naver.com"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://9mim9.notion.site/0f66db7054a348359ce70b661ba281e6/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://9mim9.notion.site/0f66db7054a348359ce70b661ba281e6/"/></a>&nbsp
+  <a href="mailto:mkjo99@naver.com"><img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=mkjo99@naver.com/></a>
 </p>
 
 
