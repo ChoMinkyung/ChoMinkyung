@@ -1,10 +1,10 @@
 ![github header](https://i.ibb.co/WcjxL71/DSC05704.jpg)
+[![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <!--
-[![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
 
 <div align="center">
 
