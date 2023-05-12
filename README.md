@@ -1,4 +1,4 @@
-![header](https://ibb.co/CnD1f4F&height=300&section=header&text=HELLO!&fontSize=90&desc=mim's%20github%20profile&descAlignY=70&descAlign=62)
+![header](https://ibb.co/CnD1f4F&section=header&text=HELLO!&fontSize=90&desc=mim's%20github%20profile&descAlignY=70&descAlign=62)
 
 <div align="center">
 
