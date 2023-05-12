@@ -1,11 +1,12 @@
 ![github header](https://i.ibb.co/WcjxL71/DSC05704.jpg)
-<div align="center">
 
 [![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <!--
+<div align="center">
+
 (https://ibb.co/CnD1f4F&height=300&section=header&text=HELLO!&fontSize=90&desc=mim's%20github%20profile&descAlignY=70&descAlign=62)
 <a href="https://ibb.co/CnD1f4F"><img src="https://i.ibb.co/WcjxL71/DSC05704.jpg" alt="DSC05704" border="0"></a>
 
