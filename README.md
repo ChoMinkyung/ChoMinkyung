@@ -1,7 +1,6 @@
 <div align="center">
 
 <a href="https://ibb.co/KKJWBz1"><img src="https://i.ibb.co/PDdgJzS/1.png" alt="1" border="0"></a>
-[![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
 
 
 
@@ -29,6 +28,8 @@
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchominkyung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D65F5F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
 </div>
 
 <!--
