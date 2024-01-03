@@ -1,6 +1,6 @@
 <div align="center">
 
-![github header](https://i.ibb.co/WcjxL71/DSC05704.jpg)
+![github header](https://ibb.co/KKJWBz1)
 [![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
 
 
