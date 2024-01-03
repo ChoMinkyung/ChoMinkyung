@@ -1,6 +1,6 @@
 <div align="center">
 
-![github header](https://ibb.co/KKJWBz1)
+![github header](<a href="https://ibb.co/KKJWBz1"><img src="https://i.ibb.co/PDdgJzS/1.png" alt="1" border="0"></a>)
 [![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
 
 
