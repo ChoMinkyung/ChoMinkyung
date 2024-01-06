@@ -1,6 +1,7 @@
 <div align="center">
 
 <a href="https://ibb.co/KKJWBz1"><img src="https://i.ibb.co/PDdgJzS/1.png" alt="1" border="0"/></a>
+![깃 로고](https://github.com/ChoMinkyung/coding_test_ex/assets/58170545/a8f0f400-b22d-458a-af68-e4a617058af3)
 
 
 
