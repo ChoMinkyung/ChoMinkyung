@@ -26,6 +26,7 @@
 </p>
 
 
+<h3 align="center">📈 GitHub Stats 📈</h3>
 
 
 [![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
