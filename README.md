@@ -27,14 +27,16 @@
 
 
 <h3 align="center">📈 GitHub Stats 📈</h3>
-
+<p align="center">
 
 [![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
+</p>
 
 <h3 align="center">⚙️ My Hits ⚙️</h3>
-
-
+<p align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchominkyung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D65F5F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
+
 </div>
 
 <!--
