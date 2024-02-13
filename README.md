@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/WinAPI-%2300599C.svg?style=for-the-badge&logoColor=white"/></a>
   
   <br>
   
@@ -21,19 +22,18 @@
 <h3 align="center">🌳 Follow Me 🌳</h3>
 <p align="center">
   <a href="https://chominkyung.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://chominkyung.github.io/"/></a>&nbsp
-    <a href="https://mimgu.notion.site/dcc1826c49fe4cf4bb5c1640593f4495?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://9mim9.notion.site/0f66db7054a348359ce70b661ba281e6/"/></a>&nbsp
+    <a href="https://mimgu.notion.site/dcc1826c49fe4cf4bb5c1640593f4495?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://chomimgu.notion.site/a46fc4096709454aa7748a1364d2d437?pvs=4"/></a>&nbsp
   
 </p>
  <br/>
 
 <h3 align="center">📈 GitHub Stats 📈</h3>
-<p align="center">
-[![Mim's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chominkyung&layout=donut)](https://github.com/chominkyung/)
-</p>
-<p align="center">
-[![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
-</p>
+
+[![Mim's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chominkyung&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/chominkyung/chominkyung)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ChoMinkyung&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ChoMinkyung/github-readme-stats#gh-dark-mode-only)
+
  <br/>
+ 
 <h3 align="center">⚙️ My Hits ⚙️</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchominkyung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23D65F5F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
