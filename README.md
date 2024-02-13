@@ -28,7 +28,7 @@
 
 <h3 align="center">📈 GitHub Stats 📈</h3>
 <p align="center">
-[![Mim's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chominkyung&layout=donut)](https://github.com/chominkyung/github-readme-stats)
+[![Mim's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chominkyung&layout=donut)](https://github.com/chominkyung/)
 </p>
 <p align="center">
 [![Mim's GitHub stats](https://github-readme-stats.vercel.app/api?username=chominkyung)](https://github.com/chominkyung/github-readme-stats)
