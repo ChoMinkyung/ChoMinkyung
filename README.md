@@ -28,8 +28,11 @@
  <br/>
 
 <h3 align="center">📈 GitHub Stats 📈</h3>
-
+<!--
+마크다운으로 주석 처리 가능
 [![Mim's GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chominkyung&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/chominkyung/chominkyung)
+-->
+
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ChoMinkyung&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ChoMinkyung/github-readme-stats#gh-dark-mode-only)
 
  <br/>
