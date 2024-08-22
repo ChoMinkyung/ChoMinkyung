@@ -22,7 +22,7 @@
 <h3 align="center">🌳 Follow Me 🌳</h3>
 <p align="center">
   <a href="https://chominkyung.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://chominkyung.github.io/"/></a>&nbsp
-    <a href="https://mimgu.notion.site/dcc1826c49fe4cf4bb5c1640593f4495?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://chomimgu.notion.site/a46fc4096709454aa7748a1364d2d437?pvs=4"/></a>&nbsp
+    <a href="http://chomimgu.notion.site"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://chomimgu.notion.site/a46fc4096709454aa7748a1364d2d437?pvs=4"/></a>&nbsp
   
 </p>
  <br/>
